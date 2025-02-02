@@ -1,0 +1,6 @@
+**************        To Build this C Program      *****************
+
+Use the gcc command:
+                                gcc -o pmp_check pmp_check.c
+and then:
+                                ./pmp_check config.txt <address> <mode> <Operation>
